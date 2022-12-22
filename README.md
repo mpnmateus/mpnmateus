@@ -23,7 +23,6 @@ Atualmente, construo de forma autônoma projetos com base nas tecnologias basila
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Me envie uma mensagem!
 <div>
-  
   <a href = "mailto:mpnmateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-      <a href="https://www.linkedin.com/in/mateuspettenuzzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/mateuspettenuzzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
