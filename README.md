@@ -1,5 +1,6 @@
 ## Olá Devs! Meu nome é Mateus Pettenuzzo e sou Desenvolvedor Front-End!
-Atualmente, construo de forma autônoma projetos com base nas tecnologias basilares de Front-End (HTML, CSS e JavaScript) a fim de pôr em prática os conhecimentos que venho adquirindo para atingir meu objetivo. Fique à vontade para consultar meus projetos e contribuir com críticas/melhorias apoiando, assim, todo o ecossistema da programação.
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas da Universidade UNISINOS (POA). Estou me qualificando em lógica de programação do python e JAVA, assim como no paradigma de programação orientada à objetos com JAVA.
+Anteriormente, construí de forma autônoma projetos com base nas tecnologias basilares de Front-End (HTML, CSS e JavaScript) a fim de pôr em prática os conhecimentos que venho adquirindo para atingir meu objetivo. Fique à vontade para consultar meus projetos e contribuir com críticas/melhorias apoiando, assim, todo o ecossistema da programação.
 <br>
 
 
