@@ -1,4 +1,5 @@
-## Olá Devs! Meu nome é Mateus Pettenuzzo e sou estudante de Análise e Desenvolvimento de Sistemas!
+## Olá Mundo! 
+Meu nome é Mateus Pettenuzzo e sou estudante de Análise e Desenvolvimento de Sistemas!
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas da Universidade UNISINOS (POA). Estou me qualificando em lógica de programação usando python e JAVA, assim como no paradigma de programação orientada à objetos com JAVA. Entre outras finalidades, uso o github para trocar conhecimento com outros DEVs, além de exercitar o versionamento de código com GIT.
 Anteriormente, construí de forma autônoma projetos com base nas tecnologias basilares de Front-End (HTML, CSS e JavaScript) a fim de pôr em prática os conhecimentos que venho adquirindo para atingir meu objetivo. Fique à vontade para consultar meus projetos e contribuir com críticas/melhorias apoiando, assim, todo o ecossistema da programação.
 <br>
