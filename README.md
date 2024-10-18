@@ -9,6 +9,10 @@ Anteriormente, construí de forma autônoma projetos com base nas tecnologias ba
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-32a8a8?style=for-the-badge&logo=nosql&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-007EC6?style=for-the-badge&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
